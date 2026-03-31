@@ -1,0 +1,7 @@
+Phishing is a very common cybercrime where attackers try to fool people into sharing sensitive information like passwords, bank details or personal data by pretending to be a trusted source. A realistic example can be seen in a case where a college student received an email that looked like it was from his bank.
+
+In this case, the process started when the student got an urgent email saying his account would be suspended if he didn’t verify it immediately. The email looked genuine, with logo and proper formatting, so it didn’t seem suspicious at first. He clicked on the link given in the email, which opened a website that looked almost exactly like the bank’s official site. Without thinking much, he entered his login details and OTP. Within minutes, money was deducted from his account. Later, he realized that the website was fake.
+
+Phishing usually targets students, working professionals and elderly people, because sometimes they may not double check such messages properly. People who use online banking frequently are also easy targets.
+
+The consequences can be quite serious. Victims may lose money, face identity theft or their accounts can get hacked. Recovering the money is not always possible and the whole situation can be stressful and time consuming, which makes it even worse.
