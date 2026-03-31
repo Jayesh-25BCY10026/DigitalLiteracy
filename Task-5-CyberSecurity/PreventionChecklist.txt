@@ -1,0 +1,12 @@
+PREVENTION CHECKLIST:
+
+    1.> Use strong and different passwords for each account (don’t keep same everywhere)
+    2.> Turn on 2-factor authentication (2FA) on apps like Gmail, Insta, banking etc
+    3.> Avoid clicking on unknown links in emails, WhatsApp or SMS, even if it looks urgent
+    4.> Always check the website URL properly before entering your details
+    5.> Check QR codes before scanning, some of them can be fake
+    6.> Use only trusted payment apps, don’t install random apps from unknown sources
+    7.> Never share your UPI PIN, OTP or bank details with anyone (banks usually don’t ask this)
+    If Something Goes Wrong;
+        8.> Report fraud on National Cyber Crime Portal: cybercrime.gov.in
+        9.> Call Cyber Crime Helpline: 1930 as soon as possible
